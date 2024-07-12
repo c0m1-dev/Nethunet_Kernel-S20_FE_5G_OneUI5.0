@@ -28,3 +28,5 @@ There are various text files in the Documentation/ subdirectory, many of which u
 Please read Documentation/process/changes.rst, as it contains crucial requirements for building and running the kernel. It also includes information about potential issues that may arise from upgrading your kernel.
 
 By utilizing this kernel, you can harness the full capabilities of your device for advanced testing and security assessments.
+
+"You can find various compiled kernels for NetHunter at the following link: [NetHunter Kernels](https://stats.nethunter.com/kernels.html).
